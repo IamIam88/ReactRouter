@@ -1,0 +1,32 @@
+.red {
+  background-color: indianred;
+  height: 800px;
+  padding-top: 400px;
+}
+
+.blue {
+  background-color: cornflowerblue;
+  height: 800px;
+  padding-top: 400px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.nav {
+  text-align: center;
+  font-size: 50px;
+}
+
+a {
+  padding: 100px;
+}
+
+.welcome {
+  color: purple;
+  background-color: lavenderblush;
+  height: 800px;
+  padding-top: 400px;
+}
